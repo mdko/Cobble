@@ -1,4 +1,4 @@
 Cobble
 ======
 
-A  Boggle clone created in Java
+A  Boggle-like wordfind game created in Java
